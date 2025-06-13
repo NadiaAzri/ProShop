@@ -43,5 +43,7 @@ This project represents a fully designed and normalized relational database syst
 ## ✍️ Author
 
 Nadia Azri & Ximena Lucio Calzada
+
 Data Analytics  
+
 Touro University  
